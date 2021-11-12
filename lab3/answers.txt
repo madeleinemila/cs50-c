@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: The running time on the sorted data sets is much faster than for random or reversed.
+
+sort2 uses: Merge sort
+
+How do you know?: The running times are similar no matter which data set is used, which also happens for sort3, but sort2 is overall faster, therefore it is merge sort.
+
+sort3 uses: Selection sort
+
+How do you know?: The running times are similar no matter which data set is used, which also happens for sort2, although sort3 is overall slower, therefore it is selection sort.

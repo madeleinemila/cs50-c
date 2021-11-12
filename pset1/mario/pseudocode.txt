@@ -1,0 +1,6 @@
+// 1. Get the height from the user (h)
+// 2. If height is less than 1 or greater than 8, go back to 1.
+// 3. h number of times:
+//     For iteration number i (for i = 1 to h inc):
+//     Print a row w (h - i) spaces, i blocks, 2 spaces, i blocks, and a new line
+
